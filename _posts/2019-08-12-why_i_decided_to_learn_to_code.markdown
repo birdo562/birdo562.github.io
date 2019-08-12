@@ -1,0 +1,9 @@
+---
+layout: post
+title:      "Why I decided to learn to code"
+date:       2019-08-12 23:55:28 +0000
+permalink:  why_i_decided_to_learn_to_code
+---
+
+
+About a year and a half ago, I started my new job with no way of getting to work. At that point, It didn't matter that I had to commute 25 miles, I would find a way to make it work. The first week, I used a mixture of public transportation and a long board. Unfortunatley, skating up hill was proving to be pretty tough. After my first check, I decided I was going to get an electric bike. This idea was very much out of my budget but then I stumbled upon Electric Skateboards!!! A lot cheaper and a lot more fun! A few weeks in and  I was in love. The only problem was that when the Esk8 would break, Id be hopeless. After the third malfunction, I had enough! I was going to learn how to build these things from scratch. After three months of constant reading and practicing, I built my first board. I realized that I could teach myself to do anything. I saved up and bought a car but kept building board after board, learning everything I could. A few months later, my wife mentions my son wants to work as a basic low level employee because his father does. I had to make a change and show him education is important! One morning on my daily commute, NPR mentioned Income Sharing Agreements. The ISA seemed like a no-brainer. I didnt have to risk anything upfront and I get a career Im proud of. Coding so far has been no piece of cake. Although, it is difficult, I find myself starting to think about coding. It's something that challenges me mentally and makes sense. I find myself thinking about the problem at work and not being able to wait to get home to try a new approach to a problem I keep failing. The frustration and the sweet success have become something I look forward to. I should have done this a long time ago!!!!
