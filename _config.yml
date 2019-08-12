@@ -1,11 +1,11 @@
 # Site settings
-author: Roberto Medina
-title: 
+author: Berto
+title: Coding with no Experience
 header-img: img/home-bg.png
 email: robby.medina562@gmail.com
-copyright_name: Roberto Medina
+copyright_name: Berto
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My intro to coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  birdo562
